@@ -14,9 +14,9 @@ Reusable Python email alerting template with MailHog-based local SMTP testing.
 
 2. Exportar variables de entorno:
 
-   export SMTP_SERVER=localhost
-   export SMTP_PORT=1025
-   export ALERT_TO=test@lab.local
+   a. export SMTP_SERVER=localhost
+   b. export SMTP_PORT=1025
+   c. export ALERT_TO=test@lab.local
 
 3. Ejecutar:
 
